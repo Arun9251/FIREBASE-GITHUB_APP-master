@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/FIREBASE-GITHUB_APP-master/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/FIREBASE-GITHUB_APP-master/static/js/main.81afb152.chunk.js",
+    "main.js.map": "/FIREBASE-GITHUB_APP-master/static/js/main.81afb152.chunk.js.map",
+    "runtime-main.js": "/FIREBASE-GITHUB_APP-master/static/js/runtime-main.4e38ca5f.js",
+    "runtime-main.js.map": "/FIREBASE-GITHUB_APP-master/static/js/runtime-main.4e38ca5f.js.map",
+    "static/css/2.f8d5825a.chunk.css": "/FIREBASE-GITHUB_APP-master/static/css/2.f8d5825a.chunk.css",
+    "static/js/2.aaa8c706.chunk.js": "/FIREBASE-GITHUB_APP-master/static/js/2.aaa8c706.chunk.js",
+    "static/js/2.aaa8c706.chunk.js.map": "/FIREBASE-GITHUB_APP-master/static/js/2.aaa8c706.chunk.js.map",
+    "index.html": "/FIREBASE-GITHUB_APP-master/index.html",
+    "static/css/2.f8d5825a.chunk.css.map": "/FIREBASE-GITHUB_APP-master/static/css/2.f8d5825a.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/FIREBASE-GITHUB_APP-master/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.aaa8c706.chunk.js.LICENSE.txt": "/FIREBASE-GITHUB_APP-master/static/js/2.aaa8c706.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/FIREBASE-GITHUB_APP-master/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e38ca5f.js",
+    "static/css/2.f8d5825a.chunk.css",
+    "static/js/2.aaa8c706.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.81afb152.chunk.js"
+  ]
+}
